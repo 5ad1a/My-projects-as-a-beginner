@@ -1,2 +1,2 @@
-# My-projects-as-a-beginner-
-The projects that I created as a new coder. 
+# Python-Beginner
+The codes I have written as a new coder. 
