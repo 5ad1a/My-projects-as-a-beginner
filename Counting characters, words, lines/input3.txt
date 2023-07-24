@@ -1,0 +1,4 @@
+Python is a simple programming language. 
+It is widely used by companies that work with softwares, data, and technology. 
+It has a similiar syntax to other programming languages, such as JavaScript. 
+Hence, familiarizing with python gives the advantage of learning other programming languages quicker. 
